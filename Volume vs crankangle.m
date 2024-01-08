@@ -1,4 +1,5 @@
 vc=1.61*10^5;                                                   %clearance volume
+disp('enter the values only in mm')
 l= input ('enter the connecting rod length :');                 %263 -connecting rod length
 stroke = input('enter the stroke length:');                     %165.1 - stroke length value
 a=stroke/2;                                                     %a values aids in the stroke length calculation i.e. stroke = a*2
